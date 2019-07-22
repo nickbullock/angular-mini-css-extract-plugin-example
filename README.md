@@ -1,0 +1,1 @@
+# angular-mini-css-extract-plugin-example
